@@ -1,6 +1,6 @@
 # NoName
 
-[![Build Status](https://img.shields.io/github/actions/workflow/status/Stack64MC/NoName/gradle.yml)]
+[![Build Status](https://img.shields.io/github/actions/workflow/status/Stack64MC/NoName/gradle.yml)]()
 
 NoName is a fork of the [PaperMC Team's Velocity proxy](https://papermc.io/software/velocity), built to handle Stack64's needs.
 

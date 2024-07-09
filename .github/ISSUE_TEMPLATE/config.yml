@@ -1,10 +1,7 @@
 blank_issues_enabled: false
 contact_links:
-  - name: PaperMC Discord
-    url: https://discord.gg/papermc
-    about: If you are having issues with the proxy not connecting to servers or have other minor issues, come ask us on our Discord server!
-  - name: Exploit Report
-    url: https://discord.gg/papermc
+  - name: Dot''s Twitter
+    url: https://x.com/@anekodot
+    about: @anekodot''s Twitter
     about: |
-      Due to GitHub not currently allowing private issues, exploit reports are currently handled via our Discord.
-      To report an exploit, see the #paper-exploit-report channel.
+      For Velocity-related issues, please report these to Velocity themselves.
